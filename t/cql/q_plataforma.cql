@@ -1,0 +1,1 @@
+select PLAT_DBID, LOC_DBID_FUERA_HORARIO, NUMERO_TRANSFERENCIA from derivacion.plataforma where PLAT_DBID = 363;
