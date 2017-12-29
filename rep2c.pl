@@ -1,6 +1,6 @@
 #!/home/rep2c/localperl/bin/perl
 #
-# Autor:   julio.trumper
+# Autor:   jt
 # Obetivo: Replica data de querys ejecutadas desde SQL Server a Cassandra (pasa x formato salida CSV)
 # Archivo de configuracion config.cfg
 # Parametros:
