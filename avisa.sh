@@ -11,8 +11,8 @@
 HNAME=`hostname -f`
 TS=`date`
 
-#DESTINATARIOS="julio.trumper@gmail.com,edgonzalez@e-contact.cl"
-DESTINATARIOS="julio.trumper@gmail.com"
+#DESTINATARIOS="t@gmail.com,edg@e-contact.cl"
+DESTINATARIOS="jt@gmail.com"
 
 SUBJECT=$1
 FILEBODY=$2
